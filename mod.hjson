@@ -1,0 +1,8 @@
+name: "triggersMod"
+displayName: "Java mod for create triggers"
+author: "nekit508"
+main: "mod.ExtJavaMod"
+description: "Made in Russia."
+version: 0.0.1
+minGameVersion: 130
+dependencies: []
